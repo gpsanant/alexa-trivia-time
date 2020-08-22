@@ -1,0 +1,19 @@
+{
+  "name": "alexa-trivia-time",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ask-sdk-core": "^2.6.0",
+    "ask-sdk-model": "^1.18.0",
+    "aws-sdk": "^2.326.0",
+    "base64-url": "^2.3.3",
+    "shuffle-list": "^1.0.0",
+    "triviadb": "^0.1.0"
+  }
+}
